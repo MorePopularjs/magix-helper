@@ -10,7 +10,8 @@
         "default_icon": {
             "19": "images/icon19.png",
             "38": "images/icon38.png"
-        }
+        },
+        "default_title": "Magix可视化工具"
     },
 
     "background": {
