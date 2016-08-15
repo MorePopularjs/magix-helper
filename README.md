@@ -26,4 +26,4 @@ magix可视化工具的chrome 插件
 ![][1]
 
 [2]: https://github.com/qiu-deqing/magix-helper/releases
-[1]: https://gw.alicdn.com/tps/TB10gacLpXXXXaCaXXXXXXXXXXX-815-608.png
+[1]: https://gw.alicdn.com/tps/TB1J6KELpXXXXabXVXXXXXXXXXX-960-682.png
