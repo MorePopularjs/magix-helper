@@ -3,13 +3,15 @@
     "version": "0.0.1",
     "manifest_version": 2,
     "description": "Magix Helper",
-    "omnibox": {
-        "keyword": "yeah"
+    "icons": {
+        "16": "images/magix16.png",
+        "48": "images/magix48.png",
+        "128": "images/magix128.png"
     },
     "browser_action": {
         "default_icon": {
-            "19": "images/icon19.png",
-            "38": "images/icon38.png"
+            "19": "images/magix19.png",
+            "38": "images/magix38.png"
         },
         "default_title": "Magix可视化工具"
     },
